@@ -15,8 +15,8 @@ The event aimed to **transform the campus into a high-energy battleground** acro
 
 ---
 
-## 📂 Files Included
-- [`RedBull.pdf`](./RedBull.pdf) → Full case study presentation  
+📄 [Download Full Case Study (PDF)](./RedBull.pdf)
+  
 
 ---
 

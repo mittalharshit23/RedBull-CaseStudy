@@ -16,9 +16,7 @@ The event aimed to **transform the campus into a high-energy battleground** acro
 ---
 
 ## 📂 Files Included
-- `RedBull-CaseStudy.pdf` → Full case study presentation (viewable on GitHub)  
-- `RedBull-CaseStudy.pptx` → Editable PowerPoint version *(optional to add)*  
-- `preview.png` → Snapshot of a slide  
+- [`RedBull.pdf`](./RedBull.pdf) → Full case study presentation  
 
 ---
 
